@@ -1,0 +1,1 @@
+Just a small project to test rust wasm development
